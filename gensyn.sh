@@ -72,7 +72,7 @@ curl -s https://raw.githubusercontent.com/sk1fas/logo-sk1fas/main/logo-sk1fas.sh
             cd
             git clone https://github.com/gensyn-ai/rl-swarm/
 
-            echo -e "${RED}Вернитесь к текстовому гайду и следуйте дальнейшим инструкциям!${NC}"
+            echo -e "${RED}Вернитесь к notion и следуйте дальнейшим инструкциям!${NC}"
             ;;
 
         2)
